@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 4b7082463bffca3458f45a1db00e8e9a
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - chairPic: {fileID: 2800000, guid: fd08b968828ea2742a5a70ef549b3a1e, type: 3}
+  - hammerPic: {fileID: 2800000, guid: 7ecdcc7388d4c6842a2a10fe96756ecf, type: 3}
+  - nutsPic: {fileID: 2800000, guid: 89a4f99f819ed774a868ed9ca02821b1, type: 3}
+  - legPic: {fileID: 2800000, guid: 9fb92189573d7564c90baf6fa771c86c, type: 3}
+  - ironPic: {fileID: 2800000, guid: 1db8009419892304a9f238878db99cee, type: 3}
+  - paperPic: {fileID: 2800000, guid: 1c69b7d58dd9a7549b4cc0952c00a0df, type: 3}
+  - keyPic: {fileID: 2800000, guid: 48818614167ae2240bdf4aaa79df3c21, type: 3}
+  - screwdriverPic: {fileID: 2800000, guid: 5bf4aa8978bdb2c47833074f8e03ecaa, type: 3}
+  - fullChairPic: {fileID: 2800000, guid: 18363613cc912dd4ab710153df9e31dc, type: 3}
+  - realPaper: {fileID: 2800000, guid: 89fc526a8b0e43a449a193842e9a8274, type: 3}
+  - chair: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

@@ -1,0 +1,21 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\starting.js">
+    <Files>
+      <File FileName="Assets\scripts\moving.js" Line="31" Column="4" />
+      <File FileName="Assets\scripts\GUITools.js" Line="130" Column="44" />
+      <File FileName="Assets\scripts\tools.js" Line="68" Column="9" />
+      <File FileName="Assets\scripts\scaling.js" Line="20" Column="18" />
+      <File FileName="Assets\scripts\starting.js" Line="85" Column="12" />
+      <File FileName="Assets\scripts\information.js" Line="4" Column="17" />
+      <File FileName="Assets\scripts\GUIControl.js" Line="30" Column="2" />
+      <File FileName="Assets\scripts\setFontSize.js" Line="6" Column="2" />
+      <File FileName="Assets\scripts\scene2.js" Line="43" Column="2" />
+      <File FileName="Assets\scripts\doorScript.js" Line="31" Column="25" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
